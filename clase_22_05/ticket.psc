@@ -1,5 +1,5 @@
 Algoritmo ticket
-	// Compañeros: Brenda Nicole Insaurralde, Joaquin Alberto Mansilla, Matias Ezequiel Olivera, Thomas Ivan Molto Espinola, Bautista Nahuel Luna
+	// CompaÃ±eros: Brenda Nicole Insaurralde, Joaquin Alberto Mansilla, Matias Ezequiel Olivera, Thomas Ivan Molto Espinola, Bautista Nahuel Luna
 	
 	// Definir variables
 	Definir precioUnitario, subTotal, iva, total Como Real
