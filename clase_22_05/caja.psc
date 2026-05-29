@@ -1,5 +1,5 @@
 Algoritmo caja
-	// CompaÒeros: Brenda Nicole Insaurralde, Joaquin Alberto Mansilla, Matias Ezequiel Olivera, Thomas Ivan Molto Espinola, Bautista Nahuel Luna
+	// Compa√±eros: Brenda Nicole Insaurralde, Joaquin Alberto Mansilla, Matias Ezequiel Olivera, Thomas Ivan Molto Espinola, Bautista Nahuel Luna
 	
 	// Definir variables
 	Definir cantidadDeVentas Como Entero
@@ -12,7 +12,7 @@ Algoritmo caja
 		Leer venta
 		
 		Si venta > 0 Entonces
-			// Si la venta es mayor a 0, sumamos una venta m·s y agregamos monto al total vendido
+			// Si la venta es mayor a 0, sumamos una venta m√°s y agregamos monto al total vendido
 			cantidadDeVentas = cantidadDeVentas + 1
 			totalVendido = totalVendido + venta
 		SiNo
