@@ -1,5 +1,5 @@
 Algoritmo controlDeAcceso
-	// Compañeros: Brenda Nicole Insaurralde, Joaquin Alberto Mansilla, Matias Ezequiel Olivera, Thomas Ivan Molto Espinola, Bautista Nahuel Luna
+	// CompaÃ±eros: Brenda Nicole Insaurralde, Joaquin Alberto Mansilla, Matias Ezequiel Olivera, Thomas Ivan Molto Espinola, Bautista Nahuel Luna
 	
 	// Definir variables
 	Definir estatura, estaturaPermitida Como Real
