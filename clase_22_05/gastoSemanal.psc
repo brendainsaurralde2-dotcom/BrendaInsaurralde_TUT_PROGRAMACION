@@ -1,5 +1,5 @@
 Algoritmo gastoSemanal
-	// Compañeros: Brenda Nicole Insaurralde, Joaquin Alberto Mansilla, Matias Ezequiel Olivera, Thomas Ivan Molto Espinola, Bautista Nahuel Luna
+	// CompaÃ±eros: Brenda Nicole Insaurralde, Joaquin Alberto Mansilla, Matias Ezequiel Olivera, Thomas Ivan Molto Espinola, Bautista Nahuel Luna
 	
 	// Definir vector
 	Dimension semana[7]
@@ -34,7 +34,7 @@ Algoritmo gastoSemanal
 	// Mostrar gastos superiores al promedio
 	Para diaDeLaSemana <- 1 Hasta cantidadDeDiasDeLaSemana Con Paso 1 Hacer
 		Si semana[diaDeLaSemana] > promedio Entonces
-			Escribir "El gasto del dia " diaDeLaSemana " Fue de: $" semana[diaDeLaSemana] " y superó al promedio"
+			Escribir "El gasto del dia " diaDeLaSemana " Fue de: $" semana[diaDeLaSemana] " y superÃ³ al promedio"
 		Fin Si
 	Fin Para
 FinAlgoritmo
